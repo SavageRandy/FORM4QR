@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "QRCode_VB.NET_Form": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\"
+    },
+    "Profile 1": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\rwhitehorn.REFSG\\source\\repos\\QRCode_VB.NET_Form\\QRCode_VB.NET_Form\\QRCode_VB.NET_Form.vbproj"
+    }
+  }
+}
